@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination, Autoplay } from 'swiper/modules';
-import { Calendar, MapPin, ExternalLink, Filter, Search } from 'lucide-react';
+import { Calendar, MapPin, ExternalLink, ListFilter as Filter, Search } from 'lucide-react';
 import Image from 'next/image';
 
 import 'swiper/css';

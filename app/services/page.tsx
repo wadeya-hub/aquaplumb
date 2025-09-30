@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { Sun, Droplets, Zap, Sprout, ArrowRight, CheckCircle, Phone, Mail } from 'lucide-react';
+import { Sun, Droplets, Zap, Sprout, ArrowRight, CircleCheck as CheckCircle, Phone, Mail } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
 import styles from './Services.module.scss';

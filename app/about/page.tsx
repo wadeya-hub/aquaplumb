@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { Award, Users, Target, Heart, CheckCircle } from 'lucide-react';
+import { Award, Users, Target, Heart, CircleCheck as CheckCircle } from 'lucide-react';
 import Image from 'next/image';
 import styles from './About.module.scss';
 
